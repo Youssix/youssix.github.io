@@ -1,5 +1,13 @@
 theme: minima
-title: Youssi
-description: Low-level systems, hypervisors, and reverse engineering.
+title: Youssix
+description: Security Research - Low-level systems, virtualization, and reverse engineering
 future: true
 permalink: pretty
+
+header_pages:
+  - projects.md
+  - writeups.md
+  - about.md
+
+minima:
+  skin: dark
